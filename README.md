@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Irrfan Khan Personal README
+# Irrfan Khan
 
-![Irrfan Khan](your_profile_picture_url_here)
+![Irrfan Khan](C:\Users\errph\OneDrive\Documents\WhatsApp Image 2023-10-15 at 14.56.16_6f4dd844.jpg)
 
 Hello, I'm Irrfan Khan! Welcome to my personal README, where you can learn more about me, my interests, and how to connect with me.
 
